@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>es.uma.informatica.sii</groupId>
   <artifactId>anotaciones</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
   <name>Anotaciones de SII</name>
   <description>Anotaciones utilizadas en la asignatura de Sistemas de Información para Internet</description>
   <properties>
