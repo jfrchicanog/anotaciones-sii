@@ -17,4 +17,11 @@
   	<developerConnection>Francisco Chicano</developerConnection>
   	<url>https://github.com/jfrchicanog/anotaciones-sii.git</url>
   </scm>
+  <distributionManagement>
+   <repository>
+     <id>github</id>
+     <name>GitHub jfrchicanog Apache Maven Packages</name>
+     <url>https://maven.pkg.github.com/jfrchicanog/anotaciones-sii</url>
+   </repository>
+</distributionManagement>
 </project>
