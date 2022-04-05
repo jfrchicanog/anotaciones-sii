@@ -2,12 +2,13 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>es.uma.informatica.sii</groupId>
   <artifactId>anotaciones</artifactId>
-  <version>0.0.1</version>
+  <version>1.0.0</version>
   <name>Anotaciones de SII</name>
   <description>Anotaciones utilizadas en la asignatura de Sistemas de Información para Internet</description>
   <properties>
   	<maven.compiler.source>1.8</maven.compiler.source>
   	<maven.compiler.target>1.8</maven.compiler.target>
+	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
   <organization>
   	<name>ETSI Informática, Universidad de Málaga</name>
