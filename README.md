@@ -13,7 +13,7 @@ public void testInsertarAlumno() {
 }
 ```
 
-## Instalación del paquete en el reposositorio local
+## Instalación del paquete en el repositorio local
 
 1. Clonar este repositorio con `git clone`
 2. Dentro de la carpeta del proyecto ejecutar `mvn install`
